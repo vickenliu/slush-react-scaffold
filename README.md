@@ -1,6 +1,6 @@
-# Slush React-scaffold [![Build Status](https://secure.travis-ci.org/baoshuaishuai/slush-react-scaffold.png?branch=master)](https://travis-ci.org/baoshuaishuai/slush-react-scaffold) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-react-scaffold.png)](http://badges.enytc.com/for/npm/slush-react-scaffold)
+# Slush React-scaffold [![Build Status](https://secure.travis-ci.org/vickenliu/slush-react-scaffold.png?branch=master)](https://travis-ci.org/vickenliu/slush-react-scaffold) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-react-scaffold.png)](http://badges.enytc.com/for/npm/slush-react-scaffold)
 
-> 
+>
 
 
 ## Getting Started
@@ -35,12 +35,12 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Contributing
 
-See the [CONTRIBUTING Guidelines](https://github.com/baoshuaishuai/slush-react-scaffold/blob/master/CONTRIBUTING.md)
+See the [CONTRIBUTING Guidelines](https://github.com/vickenliu/slush-react-scaffold/blob/master/CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/baoshuaishuai/slush-react-scaffold/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/vickenliu/slush-react-scaffold/issues).
 
-## License 
+## License
 
 The MIT License
 
@@ -66,4 +66,3 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
