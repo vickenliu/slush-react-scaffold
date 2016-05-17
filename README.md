@@ -1,5 +1,5 @@
 # Slush React-scaffold [![Build Status](https://secure.travis-ci.org/vickenliu/slush-react-scaffold.png?branch=master)](https://travis-ci.org/vickenliu/slush-react-scaffold) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-react-scaffold.png)](http://badges.enytc.com/for/npm/slush-react-scaffold)
-
+this is a react project scaffold generator, it configs the basic webpack for bundling and transpiling es6.  
 >
 
 
