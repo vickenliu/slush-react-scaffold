@@ -27,7 +27,7 @@ module.exports = {
       },
       { test: /\.((woff2?|svg)(\?v=[0-9]\.[0-9]\.[0-9]))|(woff2?|ico)$/,
         loader: 'url?limit=10000'
-      },
+      }
     ]
   },
   output: {

@@ -18,10 +18,10 @@
     "node-sass": "^3.7.0",
     "path": "^0.12.7",
     "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
     "webpack": "^1.13.0"
   },
   "dependencies": {
-    "normalize-scss": "^4.2.1",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
     "react-redux": "^4.4.5",
