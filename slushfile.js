@@ -1,6 +1,6 @@
 /*
  * slush-react-scaffold
- * https://github.com/baoshuaishuai/slush-react-scaffold
+ * https://github.com/vickenliu/slush-react-scaffold
  *
  * Copyright (c) 2016, Vicken
  * Licensed under the MIT license.
